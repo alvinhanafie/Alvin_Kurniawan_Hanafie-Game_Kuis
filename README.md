@@ -1,4 +1,4 @@
-# Quiz_Game_Project_Unity
+# Quiz Game in Unity
 
 Data-driven Game Programming in Unity.
 
