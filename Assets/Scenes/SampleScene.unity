@@ -2575,47 +2575,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f4cbd6f71fe294adabc2e6022144aa5d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _soalSoal:
-  - pertanyaan: Siapakah Nama Tokoh Ini?
-    petunjukJawaban: {fileID: 21300000, guid: fa492c9780e274c0199944ed82135a6d, type: 3}
-    pilihanJawaban:
-    - Junpei Iori
-    - Akihiko Sanada
-    - Shinjiro Aragaki
-    - Ken Amada
-    adalahBenar: 00010000
-  - pertanyaan: Siapakah Nama Tokoh Ini?
-    petunjukJawaban: {fileID: 21300000, guid: 735542ecae8a7405db53c0bc7f624d55, type: 3}
-    pilihanJawaban:
-    - Leon S. Kennedy
-    - Chris Redfield
-    - Barry Burton
-    - Ethan Winters
-    adalahBenar: 01000000
-  - pertanyaan: Siapakah Nama Tokoh Ini?
-    petunjukJawaban: {fileID: 21300000, guid: 23dcfaa6897b048968e092265ceadf81, type: 3}
-    pilihanJawaban:
-    - Noctis Lucis Caelum
-    - Clive Rosfield
-    - Squall Lionheart
-    - Cloud Strife
-    adalahBenar: 00000001
-  - pertanyaan: Siapakah Nama Tokoh Ini?
-    petunjukJawaban: {fileID: 21300000, guid: 85abfddf6d6db4e7e9813183ed51d648, type: 3}
-    pilihanJawaban:
-    - Paul Phoenix
-    - Hwoarang
-    - Jin Kazama
-    - Kazuya Mishima
-    adalahBenar: 00000100
-  - pertanyaan: Siapakah Nama Tokoh Ini?
-    petunjukJawaban: {fileID: 21300000, guid: 435a4d339afa24d43bf07ec477f79841, type: 3}
-    pilihanJawaban:
-    - Kazuma Kiryu
-    - Daigo Dojima
-    - Goro Majima
-    - Ichiban Kasuga
-    adalahBenar: 01000000
+  _playerProgress: {fileID: 11400000, guid: 416df26b349834792b8d77838debeef5, type: 2}
+  _soalSoal: {fileID: 11400000, guid: 9bebd192740be48d3855fde56dcb7fdd, type: 2}
   _pertanyaan: {fileID: 208160353}
   _pilihanJawaban:
   - {fileID: 2075551909}
