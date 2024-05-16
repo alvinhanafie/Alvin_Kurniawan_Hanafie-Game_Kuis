@@ -63,14 +63,21 @@
     <Analyzer Include="/Applications/Unity/Hub/Editor/2022.3.23f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets/LevelSoalKuis.cs" />
-    <Compile Include="Assets/LevelPackKuis.cs" />
-    <Compile Include="Assets/UI_Timer.cs" />
-    <Compile Include="Assets/LevelManager.cs" />
-    <Compile Include="Assets/PlayerProgress.cs" />
-    <Compile Include="Assets/UI_Pertanyaan.cs" />
-    <Compile Include="Assets/UI_PoinJawaban.cs" />
-    <Compile Include="Assets/UI_PesanLevel.cs" />
+    <Compile Include="Assets/Script/UI_OpsiLevelKuis.cs" />
+    <Compile Include="Assets/Script/UI_LevelPackList.cs" />
+    <Compile Include="Assets/Script/UI_Timer.cs" />
+    <Compile Include="Assets/Script/UI_PesanLevel.cs" />
+    <Compile Include="Assets/Script/LevelManager.cs" />
+    <Compile Include="Assets/Script/UI_OpsiLevelPack.cs" />
+    <Compile Include="Assets/Script/LevelPackKuis.cs" />
+    <Compile Include="Assets/Script/UI_PoinJawaban.cs" />
+    <Compile Include="Assets/Script/InitialDataGameplay.cs" />
+    <Compile Include="Assets/Script/UI_LevelKuisList.cs" />
+    <Compile Include="Assets/Script/UI_LevelMenuDataManager.cs" />
+    <Compile Include="Assets/Script/PlayerProgress.cs" />
+    <Compile Include="Assets/Script/UI_Pertanyaan.cs" />
+    <Compile Include="Assets/Script/GameSceneManager.cs" />
+    <Compile Include="Assets/Script/LevelSoalKuis.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />

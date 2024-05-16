@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 80d6d8ae4d2a846329dc8063c4cd38de
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _inisialData: {instanceID: 0}
+  - _levelList: {instanceID: 0}
+  - _tombolLevelPack: {instanceID: 0}
+  - _content: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
