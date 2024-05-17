@@ -65,13 +65,16 @@
   <ItemGroup>
     <Compile Include="Assets/Script/UI_OpsiLevelKuis.cs" />
     <Compile Include="Assets/Script/UI_LevelPackList.cs" />
+    <Compile Include="Assets/Script/PemanggilSuara.cs" />
     <Compile Include="Assets/Script/UI_Timer.cs" />
+    <Compile Include="Assets/Script/UI_MenuConfirmMessage.cs" />
     <Compile Include="Assets/Script/UI_PesanLevel.cs" />
     <Compile Include="Assets/Script/LevelManager.cs" />
     <Compile Include="Assets/Script/UI_OpsiLevelPack.cs" />
     <Compile Include="Assets/Script/LevelPackKuis.cs" />
     <Compile Include="Assets/Script/UI_PoinJawaban.cs" />
     <Compile Include="Assets/Script/InitialDataGameplay.cs" />
+    <Compile Include="Assets/Script/AudioManager.cs" />
     <Compile Include="Assets/Script/UI_LevelKuisList.cs" />
     <Compile Include="Assets/Script/UI_LevelMenuDataManager.cs" />
     <Compile Include="Assets/Script/PlayerProgress.cs" />
